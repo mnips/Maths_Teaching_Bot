@@ -1,0 +1,8 @@
+1) SOFTWARE USED: - MICROSOFT VISUAL STUDIO, MICROSOFT SQL SERVER, MACROMEDIA FLASH PLAYER, SOFT THINK DECOMPILER AND EDITOR.
+
+2) FRONT END: - HTML, CSS, FLASH (.swf,.fla)
+
+3) BACK END: - MICROSOFT SQL SERVER
+
+
+Note:- The .swf files can be decompiled using SOFTTHINK DECOMPILER AND EDITOR OR MACROMEDIA FLASH PLAYER and thus that is the source code for flash files. The aspx files code can directly be accessed with Visual Studio 2015.
